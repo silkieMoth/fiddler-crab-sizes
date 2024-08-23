@@ -1,0 +1,15 @@
+---
+title: "lterdatasampler_attached"
+format: html
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+rm(list = ls())
+```
+
+```{r}
+library(lterdatasampler)
+```
+
